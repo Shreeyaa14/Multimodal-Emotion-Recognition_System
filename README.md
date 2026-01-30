@@ -1,4 +1,4 @@
-8**Multimodal Emotion Recognition System (Text & Facial Analysis)**
+**Multimodal Emotion Recognition System by Text and Facial Analysis**
 
 This project is an automated Multimodal Emotion Recognition System that identifies the 7 emotions of humans, namely Happy, Sad, Fear, Anger, Disgust, Surprise, Neutral, by jointly analyzing textual input and facial expressions.
 The system leverages Natural Language Processing and Computer Vision techniques to extract emotional cues from multiple modalities, improving prediction accuracy c8ompared to single-source emotion detection. It supports real-time facial emotion recognition and text-based sentiment inference through an interactive web interface.
