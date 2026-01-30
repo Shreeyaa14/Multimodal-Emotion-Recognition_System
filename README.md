@@ -37,9 +37,10 @@ Text Analysis Output
 Facial Analysis Output
 <img width="502" height="559" alt="Screenshot 2026-01-29 165544" src="https://github.com/user-attachments/assets/877935b8-ca38-4cae-8b4e-42477fb1ba73" />
 
-Fusion of Text and Facial Analysis Output
+Fusion of Text and Facial Analysis Output 1
 <img width="1095" height="567" alt="Screenshot 2026-01-29 165606" src="https://github.com/user-attachments/assets/c5cd5dd7-e4d8-4317-9e02-721c47a8187c" />
 
+Fusion of Text and Facial Analysis Output 2
 <img width="1053" height="604" alt="Screenshot 2026-01-29 170051" src="https://github.com/user-attachments/assets/04b63664-ec63-4b32-a988-04af14b3939d" />
 
 
